@@ -6,6 +6,11 @@
  * @author internous
  *
  */
+
+/*
+ * 掛け算九九表の作作成
+ *
+ */
 public class KisoKadai1 {
 
 	/**
