@@ -1,22 +1,12 @@
- /**
- *
- */
 
-/**
- * @author internous
- *
- */
 
 /*
- * 掛け算九九表の作作成
+ * 掛け算九九表の作成
  *
  */
 public class KisoKadai1 {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 		kuku(9, 9);
 	}
 
