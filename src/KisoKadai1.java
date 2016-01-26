@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 
 /*
  * 掛け算九九表の作成
- *作成者：前川沙織  作成日：2016/jan
+ *作成者：前川沙織  作成日：2016/01
  */
 public class KisoKadai1 {
 
