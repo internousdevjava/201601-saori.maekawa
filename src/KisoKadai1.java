@@ -5,9 +5,9 @@
 public class KisoKadai1 {
 
 		public static void main(String[] args) {
-			System.out.println("Xの数字を入力してください");
+			System.out.println("xに1-9の中で数字を入力してください");
 			int x = new java.util.Scanner(System.in).nextInt();
-			System.out.println("yの数字を入力してください");
+			System.out.println("yに1-9の中で数字を入力してください");
 			int y = new java.util.Scanner(System.in).nextInt();
 
 			kuku(x, y);
